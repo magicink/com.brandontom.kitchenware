@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolling Pin
+  m_Name: rolling-pin-urp-lit
   m_Shader: {fileID: -6465566751694194690, guid: 5a31a0bcc6dc8bb4ca42c140aea53476,
     type: 3}
   m_ShaderKeywords: 
@@ -29,7 +29,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Glossiness: 0.5
+    - _Glossiness: 0.75
     - _Metallic: 0
     m_Colors:
     - _Color: {r: 0.8784314, g: 0.6313726, b: 0.39607844, a: 0}
